@@ -1,0 +1,150 @@
+.navbar {
+    padding-top: 2%;  /* Sesuaikan nilai mengikut keperluan */
+    padding-bottom: 2%; /* Sesuaikan nilai mengikut keperluan */
+}
+
+.banner{
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    color: aliceblue;
+}
+
+.lingkaran{
+    display:inline-block;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    color: aliceblue;
+    background-color: red;
+    
+}
+
+.lingkaran i{
+    position: relative;
+    top: 30px;
+}
+
+.nama-tim{
+    font-size: 16px;
+    font-style: bold;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+.tim img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #CCCCCC;
+}
+.tim2 img{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #CCCCCC;
+}
+
+a.social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color:#FFF;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+.client img{
+    height: auto;
+    max-height: 50px;
+}
+
+.kontak{
+    background: url("https://wallpaperaccess.com/full/1867010.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #FFF;
+}
+
+.kerangka img{
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    border: 0.125rem solid rgba(0, 0, 0, 0.125);
+    padding: 0.75rem 1.25rem;
+    display: inline-block;
+    
+}
+.pengukit{
+    background-color: ;
+}
+.card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #00163e;
+    border-bottom: 0.125rem solid rgba(0, 0, 0, 0.125);
+    color: white;
+    font-size: 20px;
+    border: 0.125rem solid rgba(0, 0, 0, 0.125);
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+.card {
+    
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0.125rem solid rgba(0, 0, 0.125);
+  
+    
+  }
+
+.news {
+    display: flex;
+    position: relative;
+    text-align: justify;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+   
+   
+    padding: 1.125rem;
+    
+}
+
+.news P{
+    line-height: 1.6;
+
+    text-align: justify;
+}
+.news-item {
+    flex: 1 0 25%; /* Masing-masing item mengambil 30% dari lebar container */
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+.batas{
+    border-bottom: 0.125rem solid rgba(0, 0, 0.125);
+}
+
+.crop-img{
+    object-fit: cover;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border: 1px solid #CCCCCC;
+}
+.alamat{
+    margin-left: 40px;
+}
+
+.berita{
+    width: 40%;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
